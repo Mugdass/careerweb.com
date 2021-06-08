@@ -1,0 +1,186 @@
+body {
+background-color: SandyBrown;
+}
+
+h1 {
+color: blue;
+text-align: center;
+}
+
+
+h2 {
+color: purple;
+text-align: left;
+}
+
+
+
+
+h3 {
+color: brown;
+text-align: right;
+}
+
+
+
+h4 {
+color: indigo;
+text-align: center;
+}
+
+
+
+h5 {
+color: #9900FF;
+text-align: left;
+}
+
+
+
+h6 {
+color: brown;
+text-align: center;
+}
+
+p {
+	font-family: "Courier New", Fantasy;
+	font-size: 19px;
+}
+	
+
+
+p {
+	color: #003300;
+	text-align: right;
+}
+
+
+
+
+
+
+
+span.boldtext {
+
+	font-weight: bold;
+
+}
+
+
+span.italictext {
+
+	font-style: italic;
+
+}
+
+
+
+
+
+
+
+.topnav {
+	background-color: #352;
+	overflow: hidden;
+}
+
+
+
+
+.topnav a {
+	float: left;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 16px 19px;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+
+
+
+.topnav a:hover {
+	background-color: #ddd;
+	color: #FF8C00;
+}
+
+
+
+
+.topnav a.active {
+	background-color: #4CAF51;
+	color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+table, th, td {
+	border: 1px #0000CC;
+	width: 35%;
+	
+}
+
+th {
+	height: 15px;
+}
+
+td {
+	height: 10px;
+}
+
+table {
+	background-color: #FFD700;
+}
+td {
+	background-color: #41C666;
+}
+
+
+
+
+
+table { 
+	border-style: dotted solid double dashed;
+}
+
+
+th {
+	border-style: solid;
+}
+
+td {
+	border-style: double;
+}
+
+td {
+	padding: 20px;
+}
+
+th {
+	padding: 40px;
+}
+
+th {
+	text-align: center;
+}
+
+td {
+	text-align: left;
+}
+
+th {
+	vertical-align: bottom;
+}
+
+td {
+	vertical-align: middle;
+}
